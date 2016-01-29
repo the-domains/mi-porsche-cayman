@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mi Porsche Cayman]]></title>
+        <description><![CDATA[Mi Porsche Cayman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 18:54:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hola mundo!]]></title>
+            <description><![CDATA[<article><h1>Hola mundo!</h1><p>Bienvenidos a mi blog! Soy PJ y aquí relataré mi "camino" hasta conseguir comprar un Porsche Cayman, en mi opinión el mejor de la gama para tener un coche divertido a la vez que funcional. Publicaré los avances económicos, logísticos... así como el porqué de querer este coche, como lo quiero... y espero que cuando lo tenga siga publicando lo mucho que me gusta ;P </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab106de98cc67d69fecc6562d889a41e1bfa924.jpg"></article>]]></description>
+            <link>undefinedhola-mundo/index.html</link>
+            <guid isPermaLink="false">7ab4562b-ea88-4a2e-aba3-f42dab229485</guid>
+            <pubDate>Fri, 29 Jan 2016 18:54:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
