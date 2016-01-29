@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T19:12:04.334Z'
-dateModified: '2016-01-29T19:12:02.354Z'
+datePublished: '2016-01-29T19:33:06.121Z'
+dateModified: '2016-01-29T19:32:58.352Z'
 title: ¿Por qué un Porsche?
 author: []
 sourcePath: _posts/2016-01-29-por-que-un-porsche.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # ¿Por qué un Porsche?
 
-¡Los Porsche son para los ricos! Es lo que mucha gente piensa, pero nada más lejos de la realidad. Tampoco son tan caros, al menos si los compras de segunda mano o los comparas con deportivos italianos... Ni tan inútiles como la gente cree, el Cayman tiene bastante maletero. 
+* ¡Los Porsche son para los ricos! Es lo que mucha gente piensa, pero nada más lejos de la realidad. Tampoco son tan caros, al menos si los compras de segunda mano o los comparas con deportivos italianos... Ni tan inútiles como la gente cree, el Cayman tiene bastante maletero. 
 
 Para empezar, he de reconocer, que hasta hace poco no me gustaba mucho esta marca, sobretodo por el diseño de los coches, pero parece que cuando pasa el tiempo, ves las cosas con otros ojos y han pasado a encantarme. Los Porsche son, han sido y serán un referente automovilístico, tanto por su diseño como ingeniería. Basta con remontarse al mítico 911 y ver que es un diseño icónico e inconfundible que apenas ha variado con el paso de los años. Menos cuando les dio por poner huevos fritos como faros... ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af6fd8ab-bb67-4787-90ee-d41766dfee6b.jpg)
 
